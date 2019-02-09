@@ -12,7 +12,7 @@
       "name": "VAR_DUR",
       "type": "constant",
       "label": "Moving Average",
-      "value": "30s",
+      "value": "60s",
       "description": ""
     }
   ],
